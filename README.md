@@ -1,5 +1,7 @@
 # InvestIQ AI
 
+[![Live Demo](https://img.shields.io/badge/Demo-Live_Platform-emerald?style=for-the-badge&logo=vercel)](https://investiq-ai-delta.vercel.app/)
+
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat-square&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
 [![LangGraph](https://img.shields.io/badge/Orchestration-LangGraph.js-purple?style=flat-square)](https://github.com/langchain-ai/langgraphjs)
